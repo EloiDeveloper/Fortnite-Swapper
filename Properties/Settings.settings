@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Eloiswapper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="paksPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks</Value>
+    </Setting>
+    <Setting Name="strechedFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FortniteInstall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
